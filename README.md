@@ -1,2 +1,2 @@
 # Pokedex
-Pokemon project using pokeapi
+Pokemon project using pokeapi: https://jayk-gupta.github.io/Pokedex/
